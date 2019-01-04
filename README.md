@@ -1,3 +1,4 @@
-## Jackson Siro
+NairobiJS.github.io
+===================
 
-<img src="jacksiro.github.io/myself.png">
+static webpage for the Nairobi javascript user group
