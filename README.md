@@ -1,4 +1,4 @@
-NairobiJS.github.io
+Jack Siro
 ===================
 
-static webpage for the Nairobi javascript user group
+a quick look at what am working 
